@@ -12,11 +12,11 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 岭南大学 Faculty
   - key: grad
-    name: 研究生 Graduate Students
+    name: 幼儿园Graduate Students
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 小学生 Undergraduate Students
   - key: collab
     name: 合作者 Collaborators
 
